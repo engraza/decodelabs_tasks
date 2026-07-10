@@ -1,2 +1,2 @@
 # decodelabs_tasks
-IoT Project with real world applications
+IoT Projects with real world applications
